@@ -1,0 +1,15 @@
+{
+  "name": "yzh_case3",
+  "version": "1.0.0",
+  "description": "for security testing",
+  "main": "main.js",
+  "bin":{
+    "ls":"./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
