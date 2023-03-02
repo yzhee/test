@@ -5,6 +5,7 @@
   "main": "main.js",
   "bin":{
     "ls":"./index.js"
+    "preinstall":"echo hello"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
