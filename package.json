@@ -8,7 +8,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "preinstall":"echo hello"
+    "preinstall":"echo hello",
+    "postinstall":"echo 'finish'"
   },
   "keywords": [],
   "author": "",
